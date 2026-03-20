@@ -23,13 +23,13 @@ LOGIN <IP_OF_SERVER> <PORT_OF_SERVER>
 <img src=images/5_getList.png></img>
 8. To refresh the list of logged in users, use the REFRESH command:
 <img src=images/7_refreshList.png></img>
-9. To send a message to another user, first get their IP from the LIST command, then use the SEND command as shown below:
+9. To send a message to another user, first get their IP from the LIST command, then use the SEND command as shown below:                                       
 <img src=images/9_messageRecorded.png></img>
 10. To broadcast a message to every user connected, use the BROADCAST command as shown below:
 <img src=images/10_broadcast.png></img>
 11. To logout as a client from the server, use the LOGOUT command as shown below:
 <img src=images/11_logout.png></img>
-12. You must be logged in to logout, as shown below:
+12. You must be logged in to logout, as shown below:                   
 <img src=images/12_logoutexception.png></img>
 13. Finally to close down the client, use the EXIT command:
 <img src=images/8_exit.png></img>
