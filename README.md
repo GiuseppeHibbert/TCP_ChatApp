@@ -3,8 +3,8 @@ Chat Application for communicating with TCP programmed in C.
 
 How to use:
 
-You must open two terminals and run the program using gcc.
-One runs the server itself, and the other connects via the client program.
+First you must open a terminal and run the program as shown below to start the chat server:
+<img src=images/1_startup.png></img>
 
 To host the server run the command below:
 host server port 
