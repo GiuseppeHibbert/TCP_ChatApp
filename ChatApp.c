@@ -41,6 +41,8 @@
  #define HOSTNAME_BUFFER_SIZE 256 // Buffer size for hostnames
  #define COMMAND_MAX_LEN 256  // max length of command
  #define LIST_BUFFER_SIZE 514 //buffer size for list response
+ #define HOSTNAME_LEN 128
+ #define PATH_LEN 256
 
  struct ClientInfo {
     int fd;                           // Socket file descriptor
